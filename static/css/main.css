@@ -1,0 +1,9 @@
+html{
+  scroll-behavior: smooth;
+}
+
+
+/*========== BASE ==========*/
+*,::before,::after{
+  box-sizing: border-box;
+}
